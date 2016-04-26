@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/aniketdatta47/codebase/gen1/noticket_migration_of_eblast_to_targeted_emailing/ebuyer_site'
+let g:netrw_dirhist_2='/home/aniketdatta47/codebase/gen1/noticket_migration_of_eblast_to_targeted_emailing/ebuyer_site/private'
+let g:netrw_dirhist_3='/home/aniketdatta47/codebase/gen1/noticket_migration_of_eblast_to_targeted_emailing/ebuyer_site/private/internal'
+let g:netrw_dirhist_4='/home/aniketdatta47/codebase/gen1/noticket_migration_of_eblast_to_targeted_emailing/ebuyer_site/private/internal/classes'
+let g:netrw_dirhist_5='/home/aniketdatta47/codebase/gen1/noticket_migration_of_eblast_to_targeted_emailing/ebuyer_site/private/internal/classes/TargetedMarketing'
+let g:netrw_dirhist_6='/home/aniketdatta47/codebase/gen2/noticket_addition_of_tcd_to_targeted_emailing/internal_server/scripts/TargetedMarketing/TargetedEmailing'
